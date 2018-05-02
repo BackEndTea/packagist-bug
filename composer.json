@@ -1,0 +1,13 @@
+{
+    "name": "backendtea/packagist-bug",
+    "description": "A cool package that does everything",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gert de Pagter",
+            "email": "BackEndTea@gmail.com"
+        }
+    ],
+    "require": {}
+}
