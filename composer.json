@@ -1,6 +1,6 @@
 {
     "name": "backendtea/packagist-bug",
-    "description": "A cool package that does everything",
+    "description": "A bad package that does nothing",
     "type": "library",
     "license": "MIT",
     "authors": [
